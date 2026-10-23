@@ -17,7 +17,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
   <a href="https://github.com/Jhony1807" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Jhony1807-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:jonataborsari@gmail.com" target="_blank">
+  <a href="mailto:jonataalves1807@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
