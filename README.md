@@ -47,9 +47,8 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ## 🎮 Game Zone: Minhas Contribuições viraram um Jogo!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jhony1807/Jhony1807/output/github-snake-dark.svg" alt="Snake Game" width="100%" />
+  <img src="https://snake-readme-continuous-integration.vercel.app/type/github/Jhony1807" alt="Snake Game" width="100%" />
 </p>
-
 ---
 
 ## 📊 Estatísticas do GitHub
