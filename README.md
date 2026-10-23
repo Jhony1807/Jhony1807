@@ -52,5 +52,5 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ---
 
 <p align="center">
-  <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade!" 🚀</i>
+  <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade! Basta foco e determinação." </i>
 </p>
