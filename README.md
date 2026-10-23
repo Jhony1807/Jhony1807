@@ -1,4 +1,4 @@
-<h1>🧑🏻‍💻Jônata Borsari<h1/>
+<h1 align ="center"> Jonata Alves Borsari</h1>
 
 <p align="center">
   <b>Graduado em Gestão da TI 🎓 | Estudante de Engenharia de Software 💻</b>
@@ -18,6 +18,8 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
+
+---
 
 ## 🚀 Sobre Mim
 
@@ -42,6 +44,14 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 ---
 
+## 🎮 Game Zone: Minhas Contribuições viraram um Jogo!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jhony1807/Jhony1807/output/github-snake-dark.svg" alt="Snake Game" width="100%" />
+</p>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -52,5 +62,5 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ---
 
 <p align="center">
-  <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade! Basta foco e determinação." </i>
+  <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade!" 🚀</i>
 </p>
