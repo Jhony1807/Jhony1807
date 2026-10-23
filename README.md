@@ -1,4 +1,4 @@
- 🧑‍💻Jônata Borsari 
+🧑🏻‍💻 Jônata Borsari 
 
 <p align="center">
   <b>Graduado em Gestão da TI 🎓 | Estudante de Engenharia de Software 💻</b>
@@ -14,10 +14,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
   <a href="https://www.linkedin.com/in/j%C3%B4nata-alves-borsari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Jhony1807" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Jhony1807-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:jonataalves1807@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jonataborsari@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
@@ -59,3 +56,4 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 <p align="center">
   <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade!" 🚀</i>
 </p>
+```<ElicitationsGroup></ElicitationsGroup>
