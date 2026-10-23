@@ -1,5 +1,6 @@
 <h1 align ="center"> Jonata Alves Borsari</h1>
 
+
 <p align="center">
   <b>Graduado em Gestão da TI 🎓 | Estudante de Engenharia de Software 💻</b>
 </p>
@@ -44,17 +45,15 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 ---
 
-## 👾 Game Zone: Retro Pac-Man Edition!
+## 👾 Game Zone: Retro Pac-Man!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=PAC-MAN%20STAGE&fontSize=30&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=READY!+PRESS+START;PAC-MAN+STAGE+1;GAME+OVER+" alt="Pacman Typing" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pacman Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/maybcb/maybcb/main/assets/pacman.gif" alt="Pacman Eating" width="100%" />
 </p>
-
----
 
 ---
 
