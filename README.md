@@ -44,19 +44,17 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 ---
 
-## 🎮 Game Zone: Que tal uma partida de Jogo da Velha?
+## 👾 Game Zone: Retro Pac-Man Edition!
 
 <p align="center">
-  <b>Clique em uma das posições abaixo para fazer a sua jogada! ❌ ⭕</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=PAC-MAN%20STAGE&fontSize=30&animation=fadeIn" width="100%" />
 </p>
 
-<!-- tictactoe start -->
-| | | |
-| :---: | :---: | :---: |
-| ⭕ | ❌ | [🕹️](https://github.com/Jhony1807/Jhony1807/issues/new?title=tt%3A1_2&body=Apenas+clique+em+%22Submit+new+issue%22+para+confirmar+sua+jogada.) |
-| [🕹️](https://github.com/Jhony1807/Jhony1807/issues/new?title=tt%3A2_0&body=Apenas+clique+em+%22Submit+new+issue%22+para+confirmar+sua+jogada.) | ❌ | ⭕ |
-| ❌ | [🕹️](https://github.com/Jhony1807/Jhony1807/issues/new?title=tt%3A0_2&body=Apenas+clique+em+%22Submit+new+issue%22+para+confirmar+sua+jogada.) | ⭕ |
-<!-- tictactoe end -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pacman Animation" width="100%" />
+</p>
+
+---
 
 ---
 
