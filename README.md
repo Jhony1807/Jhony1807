@@ -12,13 +12,12 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%B4nata-alves-borsari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jonataborsari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 Sobre Mim
