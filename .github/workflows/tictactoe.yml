@@ -1,0 +1,15 @@
+name: Tic-Tac-Toe Game
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+jobs:
+  tictactoe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: johannesloetzsch/readme-tictactoe@v1.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
