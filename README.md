@@ -1,4 +1,4 @@
-🧑🏻‍💻 Jônata Borsari 
+🧑🏻‍💻Jônata Borsari
 
 <p align="center">
   <b>Graduado em Gestão da TI 🎓 | Estudante de Engenharia de Software 💻</b>
@@ -56,4 +56,3 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 <p align="center">
   <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade!" 🚀</i>
 </p>
-```<ElicitationsGroup></ElicitationsGroup>
