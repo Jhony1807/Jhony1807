@@ -4,6 +4,7 @@
 
 Me chamo Jonata Alves Borsari, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software e sou formado em Gestão de Tecnologia da Informação. 
 
+<p>
     <a href="https://github.com/Jhony1807?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
