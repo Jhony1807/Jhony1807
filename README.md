@@ -47,14 +47,11 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 ## 👾 Game Zone: Retro Pac-Man!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=READY!+PRESS+START;PAC-MAN+STAGE+1;GAME+OVER+" alt="Pacman Typing" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maybcb/maybcb/main/assets/pacman.gif" alt="Pacman Eating" width="100%" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 📊 Estatísticas do GitHub
