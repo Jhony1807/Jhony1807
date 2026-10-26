@@ -38,10 +38,10 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 </p>
 
 ### Stack de Conhecimentos:
-- **Linguagens:** Java, Python, C, JavaScript
-- **Web / Frontend:** HTML5, CSS3, React
-- **Backend & Banco de Dados:** Node.js, SQL
-- **Ferramentas & Versionamento:** Git, GitHub
+- **Linguagens:** Java, Python, C, JavaScript;
+- **Web / Frontend:** HTML5, CSS3, React;
+- **Backend & Banco de Dados:** Node.js, SQL;
+- **Ferramentas & Versionamento:** Git, GitHub;
 
 ---
 
