@@ -1,7 +1,4 @@
 <h1 align ="center"> Jonata Alves Borsari</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
-</p>
 
 <p align="center">
   <b>Graduado em Gestão da TI 🎓 | Estudante de Engenharia de Software 💻</b>
@@ -59,7 +56,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhony1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src= https://github-readme-stats.vercel.app/api?usernameJhony1807&show_iconstrue&themeradical&hide_border=true" alt="https://github.com/Jhony1807" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony1807&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
