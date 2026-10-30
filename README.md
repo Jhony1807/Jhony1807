@@ -53,15 +53,6 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 </picture>
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhony1807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony1807&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>"Cada projeto é uma oportunidade de aprender algo novo e transformar ideias em realidade!" 🚀</i>
 </p>
